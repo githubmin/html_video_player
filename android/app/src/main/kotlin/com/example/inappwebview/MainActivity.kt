@@ -1,4 +1,4 @@
-package com.example.inappwebview
+package com.example.html_video_player
 
 import io.flutter.embedding.android.FlutterActivity
 

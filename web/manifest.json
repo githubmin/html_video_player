@@ -1,6 +1,6 @@
 {
-    "name": "inappwebview",
-    "short_name": "inappwebview",
+    "name": "html_video_player",
+    "short_name": "html_video_player",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
